@@ -11,11 +11,11 @@ scikit-learn==1.4.2
 matplotlib==3.8.4
 tensorflow==2.15.1
 tensorflow-io-gcs-filesystem==0.36.0
-protobuf==4.25.3
+protobuf==4.25.3)
 # If using GPU TF 2.15 on local with CUDA 11.8:
 nvidia-cublas-cu11==11.11.3.6
 nvidia-cudnn-cu11==8.9.2.26
-nvidia-cuda-nvrtc-cu11==11.8.89)
+nvidia-cuda-nvrtc-cu11==11.8.89
 
 Seed Settings:
 All shuffling algorithms were set to seed = 90. 
